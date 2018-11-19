@@ -1,0 +1,3 @@
+hello hadoop
+1803 hadoop
+hadooop hive
