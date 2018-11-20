@@ -1,0 +1,4 @@
+﻿﻿1 chuizi 3999
+2 Huawei 3999
+3 Xiaomi 2999
+4 Apple 5999
